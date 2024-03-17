@@ -12,4 +12,8 @@ Routine 1 :
 -bouger le texte dans le dossier 
 -déconnextion
 
-réseaux eurodam
+partage de connection
+
+data du fichier texte ton à la ligne 4192
+
+première query DNS dropbox: 2165| time : 387869 | fp.dropbox.com
